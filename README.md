@@ -30,7 +30,7 @@ The **Electronic Billing System** is a Java-based GUI application designed to au
 ## Installation & Setup
 1. Clone the repository from GitHub:
    ```sh
-   git clone https://github.com/your-username/electronic-billing-system.git
+   git clone https://github.com/klu-2200030106/JAVAGUIPROJECT.git
    ```
 2. Open the project in Eclipse or any Java-supported IDE.
 3. Compile and run `ShopBillingSystem.java`.
